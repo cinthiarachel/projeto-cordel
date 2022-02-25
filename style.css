@@ -69,7 +69,8 @@ p{
     background-position: right center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: auto;
+    max-width: 97vh;
     padding-top: 20px;
     padding-bottom: 30px;
     padding-left: 20px;
