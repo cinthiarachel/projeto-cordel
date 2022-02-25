@@ -55,13 +55,17 @@ p{
     font-size: 3.5vw;
     padding-left: 20px;
     padding-top: 40px;
+    
 }
 
 .normal{
     background-color: white;
     color: black;
-    padding-bottom: 50px;
     
+}
+
+.normal > p{
+    padding-bottom: 50px;
 }
 
 .imagem{
